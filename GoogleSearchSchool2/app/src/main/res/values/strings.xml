@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">GoogleSearchSchool2</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+
+    <string name="detail_placeholder">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+
+    <string-array name="school_titles">
+        <item>大安高工</item>
+        <item>師範大學</item>
+        <item>建國中學</item>
+        <item>大同大學</item>
+        <item>中山國中</item>
+        <item>台北科技大學</item>
+    </string-array>
+
+    <string-array name="subtitle_detail_text">
+        <item>臺北市立大安高級工業職業學校（英語：Taipei Municipal Da-An Vocational High School）
+            為早期八大省工之一，是位於臺北市大安區的技術型高級中等學校，為臺灣白色恐怖時期後少數保有傳統卡其色校服的學校，
+            鄰近中央健康保險局、大安森林公園、捷運大安站、師大附中、大安國中、龍門國中。</item>
+        <item>國立臺灣師範大學（簡稱臺灣師大、臺師大、臺師、師範大學或師大），是位於臺灣臺北市大安區的綜合型大學，
+            臺灣邁向頂尖大學計劃中十二所大學之一。臺灣省立師範學院於1946年設立時暫借臺灣省立臺北高級中學
+            （前身為1922年創立的臺灣總督府臺北高等學校）校地，兩校共用校舍與師資，師範學校在臺北高中停辦後接收其資源，並逐步從學院改大學、
+            從省立改國立，並於2018年追認校齡自1922年起算。</item>
+        <item>臺北市立建國高級中學（英語：Taipei Municipal Jianguo High School），簡稱建中、建國中學、CKHS，
+            為一所市立普通型高級中等學校，設有普通班、體育班、科學班、數理資優班、人文暨社會科學資優班。
+            位於臺灣臺北市中正區南海學園正對面，為北市六省中之一。前身為臺灣日治時期的臺北一中、三中及四中。</item>
+        <item>是位於臺灣臺北市中山區的私立大學，前身為大同工業專科學校、大同工學院。
+            1999年從大同工學院改名為大同大學，設有電資學院、工程學院、經營學院、設計學院、國際學院。</item>
+        <item>是位於臺北市松山區的一所公立國民中學，創校於1978年，鄰近捷運文湖線中山國中站。
+            中山國中以「大器中山人」為辦學願景，該校長年培育羽球選手</item>
+        <item>北科大以培養台灣工程人才為主，依其統計，目前台灣有10%的上市櫃公司負責人，都是北科大校友，而根據 QS2021年3月公布的「工程與科技」排名，
+            北科大在台灣排名第4，僅次於台大、清大、交大。2009年時，與國立臺北大學、臺北醫學大學三校結盟合組為臺北聯合大學系統，
+            為全台第二個大學系統，2014年臺灣海洋大學加入，結合北大的文、法，北醫的醫、藥，北科的工、理，
+            海大的海洋科學，組成了異質性高、互補性強的「高等教育策略結盟」。</item>
+    </string-array>
+
+    <array name="schools_images">
+        <item>@drawable/yellow</item>
+        <item>@drawable/green</item>
+        <item>@drawable/red</item>
+        <item>@drawable/pink</item>
+        <item>@drawable/purple</item>
+        <item>@drawable/blue</item>
+    </array>
+
+    <string-array name="color">
+        <item>yellow</item>
+        <item>green</item>
+        <item>red</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>blue</item>
+    </string-array>
+
+</resources>
